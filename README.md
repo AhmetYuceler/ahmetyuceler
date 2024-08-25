@@ -7,6 +7,14 @@
 
 - 🔭 I’m currently working on **elonky.com**
 
+- 🌱 Libraries I use frequently **Javascript, Typescript, React, Nextjs , Tailwindcss, Bootstrap, Bulma, Material ui, Ant Design, Redux, Mobx, etc.**
+
+- 📝 My website [ahmetyuceler.com.tr](https://ahmetyuceler.com.tr)
+
+- ⚡ How to reach me 2 [instagram.com/ahmetyuceler](instagram.com/ahmetyuceler)
+
+- 📫 How to reach me **ccahmetyucelercc@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmet_yuceler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmet_yuceler" height="30" width="40" /></a>
